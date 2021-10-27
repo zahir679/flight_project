@@ -1,0 +1,13 @@
+package com.planeApp.flight;
+
+public enum AllFlights {
+    LONDON_TO_NEW_YORK,
+    LONDON_TO_BANGKOK,
+    LONDON_TO_TOKYO,
+    LONDON_TO_AMSTERDAM,
+    LONDON_TO_DUBAI,
+    LONDON_TO_HONG_KONG,
+    LONDON_TO_DUBLIN,
+    LONDON_TO_EDINBURGH,
+
+}
